@@ -1,1 +1,2 @@
 name: No. 1 Approval Workflow on Github
+on: pull_request_review
